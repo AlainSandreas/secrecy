@@ -1,0 +1,24 @@
+{
+  "name": "secrecy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlainSandreas/secrecy.git"
+  },
+  "author": "AlainSandreas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlainSandreas/secrecy/issues"
+  },
+  "homepage": "https://github.com/AlainSandreas/secrecy#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.0",
+    "nodemon": "^1.19.0"
+  }
+}
